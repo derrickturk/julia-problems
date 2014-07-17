@@ -15,4 +15,7 @@ function fibupto(n)
     end
 end
 
+@assert(collect(@task fibupto(90)) == [1, 2, 3, 5, 8, 13, 21, 34, 55, 89],
+    "Failed example calculation.")
+
 println(sum(filter(iseven, @task fibupto(4e6))))
