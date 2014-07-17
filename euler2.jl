@@ -15,4 +15,4 @@ function fibupto(n)
     end
 end
 
-println(sum(filter(x -> x % 2 == 0, @task fibupto(4e6))))
+println(sum(filter(iseven, @task fibupto(4e6))))
