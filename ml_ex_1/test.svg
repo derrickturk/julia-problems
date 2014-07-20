@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="800mm" height="600mm" viewBox="0 0 800 600"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+>
+<g class="plotroot xscalable yscalable" id="fig-2879f63fb5fb48f7b38118384396f120-element-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="none" id="fig-2879f63fb5fb48f7b38118384396f120-element-2">
+    <text x="404.91" y="590" text-anchor="end" dy="0.35em" transform="rotate(-90, 404.91, 590)">x</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="fig-2879f63fb5fb48f7b38118384396f120-element-3">
+    <text x="16.83" y="588" text-anchor="middle">0.0</text>
+    <text x="172.06" y="588" text-anchor="middle">0.2</text>
+    <text x="327.3" y="588" text-anchor="middle">0.4</text>
+    <text x="482.53" y="588" text-anchor="middle">0.6</text>
+    <text x="637.77" y="588" text-anchor="middle">0.8</text>
+    <text x="793" y="588" text-anchor="middle">1.0</text>
+  </g>
+  <g clip-path="url(#fig-2879f63fb5fb48f7b38118384396f120-element-5)" id="fig-2879f63fb5fb48f7b38118384396f120-element-4">
+    <g pointer-events="visible" opacity="1" fill="none" stroke="none" class="guide background" id="fig-2879f63fb5fb48f7b38118384396f120-element-6">
+      <rect x="14.83" y="5" width="780.17" height="579.33"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="fig-2879f63fb5fb48f7b38118384396f120-element-7">
+      <path d="M14.83,582.33 L 795 582.33"/>
+      <path d="M14.83,294.66 L 795 294.66"/>
+      <path d="M14.83,7 L 795 7"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="fig-2879f63fb5fb48f7b38118384396f120-element-8">
+      <path d="M16.83,5 L 16.83 584.33"/>
+      <path d="M172.06,5 L 172.06 584.33"/>
+      <path d="M327.3,5 L 327.3 584.33"/>
+      <path d="M482.53,5 L 482.53 584.33"/>
+      <path d="M637.77,5 L 637.77 584.33"/>
+      <path d="M793,5 L 793 584.33"/>
+    </g>
+    <g class="plotpanel" id="fig-2879f63fb5fb48f7b38118384396f120-element-9">
+      <g class="geometry" id="fig-2879f63fb5fb48f7b38118384396f120-element-10">
+        <g class="color_LCHab(70.0,60.0,240.0)" stroke="#FFFFFF" stroke-width="0.3" fill="#00BFFF" id="fig-2879f63fb5fb48f7b38118384396f120-element-11">
+          <circle cx="332.42" cy="552.53" r="0.9"/>
+          <circle cx="175.94" cy="220.35" r="0.9"/>
+          <circle cx="457.84" cy="321.13" r="0.9"/>
+          <circle cx="389.47" cy="579.88" r="0.9"/>
+          <circle cx="720.75" cy="7" r="0.9"/>
+          <circle cx="117.09" cy="93.04" r="0.9"/>
+          <circle cx="479.49" cy="135.3" r="0.9"/>
+          <circle cx="368.18" cy="262.86" r="0.9"/>
+          <circle cx="143.74" cy="400.47" r="0.9"/>
+          <circle cx="251.32" cy="91.49" r="0.9"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="fig-2879f63fb5fb48f7b38118384396f120-element-12">
+    <text x="13.83" y="582.33" text-anchor="end" dy="0.35em">0.0</text>
+    <text x="13.83" y="294.66" text-anchor="end" dy="0.35em">0.5</text>
+    <text x="13.83" y="7" text-anchor="end" dy="0.35em">1.0</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="none" id="fig-2879f63fb5fb48f7b38118384396f120-element-13">
+    <text x="8.81" y="294.66" text-anchor="end" dy="0.35em">y</text>
+  </g>
+</g>
+<defs>
+<clipPath id="fig-2879f63fb5fb48f7b38118384396f120-element-5">
+  <path d="M14.83,5 L 795 5 795 584.33 14.83 584.33" />
+</clipPath
+></defs>
+</svg>
